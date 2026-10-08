@@ -10,7 +10,7 @@ Built on the [5DollarFootballAPI](https://5dollarfootballapi.com) odds history e
 Fulham v Man Utd: 211 ticks, 15 pre-match, 196 in-play -> movement.png
 ```
 
-See it rendered live, with the walkthrough: **[5dollarfootballapi.com/examples/odds-movement-chart](https://5dollarfootballapi.com/examples/odds-movement-chart)**
+See the walkthrough, with sample output: **[5dollarfootballapi.com/examples/odds-movement-chart](https://5dollarfootballapi.com/examples/odds-movement-chart)**
 
 ## Run it
 
@@ -62,8 +62,10 @@ Bookmakers other than Bet365 carry `1x2`, `asian`, `goalline` and `corner`; some
 
 ## More examples
 
-- [football-corner-stats-table](https://github.com/5dollarfootball-api/football-corner-stats-table) — a league corner table from one call
 - [football-live-score-app](https://github.com/5dollarfootball-api/football-live-score-app) — a live scoreboard in one Node.js file
+- [football-goal-alert-bot](https://github.com/5dollarfootball-api/football-goal-alert-bot) — goal alerts in Telegram or Discord
+- [football-odds-backtest](https://github.com/5dollarfootball-api/football-odds-backtest) — simple bets settled at opening vs closing odds
+- [football-corner-stats-table](https://github.com/5dollarfootball-api/football-corner-stats-table) — a league corner table from one call
 - [All examples](https://5dollarfootballapi.com/examples)
 
 ## License
